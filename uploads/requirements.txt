@@ -1,0 +1,7 @@
+pillow
+imagehash
+scikit-image
+opencv-python
+scikit-learn
+joblib
+piexif
